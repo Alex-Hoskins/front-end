@@ -1,6 +1,5 @@
 import React from 'react';
 import EditItem from './EditItem';
-import DeleteItem from './DeleteItem';
 
 export default function AuthItemCard({ details }) {
     if (!details) {
